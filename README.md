@@ -2,8 +2,7 @@ La Cena de los Filósofos
 =================================
 
 _ _ _
-Esta tarea ha sido publicada como solución en la plataforma de Educación de la Junta de Andalucía del C.F.G.S. Desarrollo de Aplicaciones Multiplataforma a Distancia del módulo de Programación de Servicios y Procesos.
-
+Esta tarea ha sido publicada como solución a la exposicion hecha para el curso de sistemas operativos 1 en junio 2023
 _ _ _
 ## Características:
 Ofrezco una solución al problema de computación La Cena de los Filósofos propuesto por Edsger Dijkstra en 1965 para representar el problema de la sincronización de procesos en un sistema operativo.
