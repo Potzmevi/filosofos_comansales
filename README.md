@@ -26,14 +26,6 @@ Nota: La carpeta /dist/images debe estar en la misma ubicación que el archivo L
 - La aplicación ha sido desarrollada utilizando el IDE [NetBeans].
 
 - - -
-## Licencia
-Esta aplicación se ofrece bajo licencia [Creative Commons Attribution 4.0](https://choosealicense.com/licenses/cc-by-4.0/).
-
-- - -
-## Fecha:
-29 de noviembre de 2017
-
-- - -
 
 
 [img01]: ./readme_imagenes/img01.jpg
